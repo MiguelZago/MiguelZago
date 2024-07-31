@@ -2,7 +2,7 @@
 
 Eu me chamo Miguel 
 
-✅ Estou estudando no Alura 🧑‍🎓
+✅ Estou estudando no [Alura](https://www.alura.com.br) 🧑‍🎓
 
 ✅ Utilizo esse espaço para minha organização e compatilhamento dos meus projetos desenvolvidos 📖
 
@@ -18,3 +18,4 @@ Eu me chamo Miguel
 
 @miguelsinho2k
 
+![](https://media1.tenor.com/m/8u234MKtNvMAAAAd/digital-technology-digital-transformaton.gif)
